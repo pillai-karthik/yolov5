@@ -1,0 +1,6 @@
+names:
+- device
+- display
+nc: 2
+train: /content/datasets/vine-trees-2/train/images
+val: /content/datasets/vine-trees-2/valid/images
